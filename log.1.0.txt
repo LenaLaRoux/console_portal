@@ -1,0 +1,246 @@
+сен 24, 2019 7:24:05 PM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"a088d187-ae43-479a-94c8-e4bd38bf5af0","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 24, 2019 7:25:06 PM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"a088d187-ae43-479a-94c8-e4bd38bf5af0","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 24, 2019 7:29:16 PM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"e2e7f0b1-b0e6-49f6-9c05-0bcaaf1d4b56","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 24, 2019 7:31:09 PM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"efa5266b-9cd2-40e8-92dd-d8cbd36a627f","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 24, 2019 7:33:14 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"clientId":"2f675296-1e76-4d53-8963-4073d6725baa","rq":{},"rs":{}}
+сен 24, 2019 7:33:19 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"logIn":"Alla","clientId":"2f675296-1e76-4d53-8963-4073d6725baa","rq":{},"rs":{}}
+сен 24, 2019 7:33:28 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"logIn":"Alla","clientId":"2f675296-1e76-4d53-8963-4073d6725baa","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 7:33:31 PM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"2f675296-1e76-4d53-8963-4073d6725baa","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 24, 2019 7:59:51 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"clientId":"a78034db-fbc1-4ef6-bbef-e38fa57ad7d2","rq":{},"rs":{}}
+сен 24, 2019 7:59:58 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"clientId":"a78034db-fbc1-4ef6-bbef-e38fa57ad7d2","rq":{},"rs":{}}
+сен 24, 2019 10:08:37 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"clientId":"68066625-b83c-4f39-abed-1c97ab0952f1","rq":{},"rs":{}}
+сен 24, 2019 10:08:46 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"clientId":"68066625-b83c-4f39-abed-1c97ab0952f1","rq":{},"rs":{}}
+сен 24, 2019 10:13:27 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"clientId":"1f83346b-7feb-447f-9c4d-6ee38af275ce","rq":{},"rs":{}}
+сен 24, 2019 10:13:42 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"clientId":"1f83346b-7feb-447f-9c4d-6ee38af275ce","rq":{},"rs":{}}
+сен 24, 2019 10:16:23 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"clientId":"7de81bf0-2087-4041-b63a-1b6853c314e5","rq":{},"rs":{}}
+сен 24, 2019 10:16:28 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"clientId":"7de81bf0-2087-4041-b63a-1b6853c314e5","rq":{},"rs":{}}
+сен 24, 2019 10:17:47 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"clientId":"a79e57ec-c0c1-4ade-94a0-013efec76fc0","rq":{},"rs":{}}
+сен 24, 2019 10:17:51 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"clientId":"a79e57ec-c0c1-4ade-94a0-013efec76fc0","rq":{},"rs":{}}
+сен 24, 2019 10:28:53 PM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 24, 2019 10:28:53 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"clientId":"352a7788-a912-4376-9903-ba24ef77b82d","rq":{},"rs":{}}
+сен 24, 2019 10:29:08 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"clientId":"352a7788-a912-4376-9903-ba24ef77b82d","rq":{},"rs":{}}
+сен 24, 2019 10:29:49 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"clientId":"352a7788-a912-4376-9903-ba24ef77b82d","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 10:29:49 PM server.Trace$CustomLogger customLog
+INFO: CLIENT: Login is not valid
+сен 24, 2019 10:33:03 PM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 24, 2019 10:33:03 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"clientId":"5b39d379-6b43-484e-9c08-4e9523114787","rq":{},"rs":{}}
+сен 24, 2019 10:33:09 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"clientId":"5b39d379-6b43-484e-9c08-4e9523114787","rq":{},"rs":{}}
+сен 24, 2019 10:33:12 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"clientId":"5b39d379-6b43-484e-9c08-4e9523114787","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 10:33:12 PM server.Trace$CustomLogger customLog
+INFO: CLIENT: Login is not valid
+сен 24, 2019 10:34:54 PM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 24, 2019 10:34:54 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"clientId":"b46f90c5-8db0-49ca-91aa-c2ae058b57c5","rq":{},"rs":{}}
+сен 24, 2019 10:35:04 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"clientId":"b46f90c5-8db0-49ca-91aa-c2ae058b57c5","rq":{},"rs":{}}
+сен 24, 2019 10:35:06 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"clientId":"b46f90c5-8db0-49ca-91aa-c2ae058b57c5","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 10:35:06 PM server.Trace$CustomLogger customLog
+INFO: CLIENT: Login is not valid
+сен 24, 2019 10:37:50 PM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 24, 2019 10:37:50 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"clientId":"6a082862-ad85-4b0b-a7fd-704e761f74c2","rq":{},"rs":{}}
+сен 24, 2019 10:37:56 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"logIn":"Alla","clientId":"6a082862-ad85-4b0b-a7fd-704e761f74c2","rq":{},"rs":{}}
+сен 24, 2019 10:38:06 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"logIn":"Alla","clientId":"6a082862-ad85-4b0b-a7fd-704e761f74c2","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 10:38:09 PM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"6a082862-ad85-4b0b-a7fd-704e761f74c2","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 24, 2019 10:39:45 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"logIn":"Alla","clientId":"6a082862-ad85-4b0b-a7fd-704e761f74c2","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 24, 2019 10:39:52 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"logIn":"Alla","clientId":"6a082862-ad85-4b0b-a7fd-704e761f74c2","rq":{"contentViewingByUser":true},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 24, 2019 10:41:28 PM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 24, 2019 10:41:29 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"clientId":"96abf49d-4f10-4530-82b5-03e8512f91e7","rq":{},"rs":{}}
+сен 24, 2019 10:41:34 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"logIn":"Alla","clientId":"96abf49d-4f10-4530-82b5-03e8512f91e7","rq":{},"rs":{}}
+сен 24, 2019 10:41:37 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"logIn":"Alla","clientId":"96abf49d-4f10-4530-82b5-03e8512f91e7","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 10:41:40 PM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"96abf49d-4f10-4530-82b5-03e8512f91e7","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 24, 2019 10:42:23 PM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 24, 2019 10:42:23 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"clientId":"21e918f2-d19a-4499-8f53-50ed0fad44c3","rq":{},"rs":{}}
+сен 24, 2019 10:42:39 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"logIn":"Alla","clientId":"21e918f2-d19a-4499-8f53-50ed0fad44c3","rq":{},"rs":{}}
+сен 24, 2019 10:42:52 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"logIn":"Alla","clientId":"21e918f2-d19a-4499-8f53-50ed0fad44c3","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 10:42:52 PM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"21e918f2-d19a-4499-8f53-50ed0fad44c3","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 24, 2019 10:44:42 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"logIn":"Alla","clientId":"21e918f2-d19a-4499-8f53-50ed0fad44c3","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 24, 2019 10:45:07 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"logIn":"Alla","clientId":"21e918f2-d19a-4499-8f53-50ed0fad44c3","rq":{"contentViewing":true},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 24, 2019 10:50:53 PM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"21e918f2-d19a-4499-8f53-50ed0fad44c3","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 24, 2019 10:52:23 PM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 24, 2019 10:52:23 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"clientId":"95eb0cd6-13d5-4212-bfa1-f477096fd992","rq":{},"rs":{}}
+сен 24, 2019 10:52:46 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"logIn":"Alla","clientId":"95eb0cd6-13d5-4212-bfa1-f477096fd992","rq":{},"rs":{}}
+сен 24, 2019 10:53:27 PM server.Trace$CustomLogger customLog
+INFO: PORTALGUI: {"logIn":"Alla","clientId":"95eb0cd6-13d5-4212-bfa1-f477096fd992","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 10:53:53 PM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"95eb0cd6-13d5-4212-bfa1-f477096fd992","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 12:24:09 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 12:24:34 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"2fada8f0-f54d-4b03-b0d4-08b78a4b01d4","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 12:25:42 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 12:36:23 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 12:36:34 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"90edb0da-bd74-45eb-9889-2e1e86480c8a","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 12:38:45 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 12:38:55 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"47ad7152-6ee9-4cc2-a52c-38b17446ea86","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 1:18:41 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 1:40:57 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 1:44:32 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 1:48:52 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 1:49:52 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 1:54:39 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 1:55:46 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 1:55:56 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"d9ee88fe-ec2a-4afe-ad7f-7ee99108a53f","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:01:10 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 2:03:06 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 2:13:55 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 2:16:29 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 2:18:12 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 2:18:44 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 2:22:21 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 2:23:33 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 2:23:40 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"7139cef5-9506-457c-86a1-71a6713a8c54","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:25:09 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 2:25:18 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"611b4159-d3a1-4111-9cd1-fe848a2bde3a","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:28:08 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 2:29:08 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 2:29:16 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"1970cd25-6818-442d-8c4a-3107fb1522d1","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:30:03 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 2:30:10 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"da0617a1-7172-42f2-be78-37f7dea0ed66","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:30:16 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"da0617a1-7172-42f2-be78-37f7dea0ed66","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:35:42 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 2:36:30 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 2:38:50 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 2:40:23 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 2:44:08 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 2:44:14 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"a103643f-64d6-4bad-865b-fe57242460a3","rq":{},"rs":{"contentViewing":["{\"contentId\":3,\"text\":\"record 3\"}"]}}
+сен 25, 2019 2:47:03 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 2:47:08 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"6058d6a8-399c-4839-bb13-f6217cf5815c","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:47:16 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"6058d6a8-399c-4839-bb13-f6217cf5815c","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:47:23 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"6058d6a8-399c-4839-bb13-f6217cf5815c","rq":{},"rs":{"contentViewing":["{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":6,\"text\":\"record 6\"}"]}}
+сен 25, 2019 2:49:22 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 2:49:34 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"d6ade1a3-8b30-4d2c-b67d-495132dfc19b","rq":{},"rs":{"contentViewing":["{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":6,\"text\":\"record 6\"}"]}}
+сен 25, 2019 2:49:45 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"d6ade1a3-8b30-4d2c-b67d-495132dfc19b","rq":{},"rs":{"contentViewing":["{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":6,\"text\":\"record 6\"}"]}}
+сен 25, 2019 2:51:59 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 2:52:07 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"fa5ba1ca-6728-4058-b50d-c5058dbc178b","rq":{},"rs":{"contentViewing":["{\"contentId\":6,\"text\":\"record 6\"}"]}}
+сен 25, 2019 2:52:22 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"fa5ba1ca-6728-4058-b50d-c5058dbc178b","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:52:31 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"fa5ba1ca-6728-4058-b50d-c5058dbc178b","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:52:36 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"fa5ba1ca-6728-4058-b50d-c5058dbc178b","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:52:38 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"fa5ba1ca-6728-4058-b50d-c5058dbc178b","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:52:44 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"fa5ba1ca-6728-4058-b50d-c5058dbc178b","rq":{},"rs":{"contentViewing":["{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:52:58 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"fa5ba1ca-6728-4058-b50d-c5058dbc178b","rq":{},"rs":{"contentViewing":["{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:53:11 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Alla","clientId":"fa5ba1ca-6728-4058-b50d-c5058dbc178b","rq":{},"rs":{"contentViewing":["{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:55:34 AM server.Trace$CustomLogger customLog
+INFO: Waiting msg fromserver
+сен 25, 2019 2:55:51 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:19 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:24 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:24 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:29 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:59 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{},"rs":{"contentViewing":["{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}"]}}
+сен 25, 2019 2:59:17 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{},"rs":{"contentViewing":["{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}"]}}
+сен 25, 2019 3:00:07 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 3:00:12 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 3:00:28 AM server.Trace$CustomLogger customLog
+INFO: CLIENT: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}

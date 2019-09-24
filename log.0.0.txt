@@ -1,0 +1,2240 @@
+сен 18, 2019 10:39:44 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 18, 2019 10:41:29 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 18, 2019 10:49:18 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 18, 2019 10:49:35 PM server.Trace$CustomLogger customLog
+INFO: Echoing: (22:49:31) alla: hi
+сен 18, 2019 10:49:53 PM server.Trace$CustomLogger customLog
+INFO: Echoing: (22:49:49) err: n
+сен 19, 2019 12:28:45 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 19, 2019 12:38:16 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 19, 2019 12:42:04 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 19, 2019 12:43:53 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 20, 2019 2:34:01 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 21, 2019 12:43:29 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 21, 2019 12:46:53 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 23, 2019 11:47:02 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 12:07:10 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 12:11:01 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 12:11:25 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 12:25:22 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 12:43:17 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 12:46:53 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 12:47:20 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 12:48:10 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 12:50:12 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 12:51:23 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 12:53:45 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 12:58:14 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 1:02:28 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 1:27:20 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 1:36:38 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 1:37:43 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 1:48:46 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 1:50:33 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 1:54:05 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 2:04:32 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 2:18:32 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 2:36:19 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 2:49:07 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 10:38:36 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 10:39:07 AM server.Trace$CustomLogger customLog
+INFO: Get message from server
+сен 24, 2019 10:39:41 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"xcvcv","clientId":"e648c96e-ac3b-4b7b-a58f-a235614c75f4","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 10:39:41 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: xcvcv
+сен 24, 2019 10:39:42 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 24, 2019 10:39:44 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 24, 2019 10:39:45 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 24, 2019 10:39:45 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/virtudb?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 24, 2019 10:39:45 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 24, 2019 10:39:45 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 24, 2019 10:39:45 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 24, 2019 10:39:46 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 24, 2019 10:39:49 AM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+WARN: SQL Error: 1054, SQLState: 42S22
+сен 24, 2019 10:39:49 AM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+ERROR: Unknown column 'userentity0_.login' in 'field list'
+сен 24, 2019 10:39:49 AM org.hibernate.event.internal.DefaultLoadEventListener doOnLoad
+INFO: HHH000327: Error performing load command : org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+сен 24, 2019 5:16:12 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 5:17:01 PM server.Trace$CustomLogger customLog
+INFO: Get message from server
+сен 24, 2019 5:17:05 PM server.Trace$CustomLogger customLog
+INFO: {"logIn":"lena","clientId":"6de365c2-ada4-4dcd-a864-81cad9a893a0","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 5:17:05 PM server.Trace$CustomLogger customLog
+INFO: Search user by login: lena
+сен 24, 2019 5:17:06 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 24, 2019 5:17:07 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 24, 2019 5:17:08 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 24, 2019 5:17:08 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/virtudb?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 24, 2019 5:17:08 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 24, 2019 5:17:08 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 24, 2019 5:17:08 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 24, 2019 5:17:13 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 24, 2019 5:17:16 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+WARN: SQL Error: 1054, SQLState: 42S22
+сен 24, 2019 5:17:16 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+ERROR: Unknown column 'userentity0_.login' in 'field list'
+сен 24, 2019 5:17:16 PM org.hibernate.event.internal.DefaultLoadEventListener doOnLoad
+INFO: HHH000327: Error performing load command : org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+сен 24, 2019 5:26:16 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 5:26:44 PM server.Trace$CustomLogger customLog
+INFO: Get message from server
+сен 24, 2019 5:29:37 PM server.Trace$CustomLogger customLog
+INFO: {"logIn":"lop","clientId":"3b0c26b2-16a1-436c-86a2-09d47b2f14ab","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 5:30:25 PM server.Trace$CustomLogger customLog
+INFO: Search user by login: lop
+сен 24, 2019 5:31:08 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 24, 2019 5:31:17 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 24, 2019 5:31:21 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 24, 2019 5:31:21 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/virtudb?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 24, 2019 5:31:21 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 24, 2019 5:31:21 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 24, 2019 5:31:21 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 24, 2019 5:31:51 PM org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator initiateService
+WARN: HHH000342: Could not obtain connection to query metadata : null
+сен 24, 2019 5:31:51 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 24, 2019 5:31:51 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+WARN: SQL Error: 0, SQLState: 08S01
+сен 24, 2019 5:31:51 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+ERROR: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+сен 24, 2019 5:31:51 PM org.hibernate.service.internal.AbstractServiceRegistryImpl stopService
+INFO: HHH000369: Error stopping service [class org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl]
+java.lang.NullPointerException
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.stop(DriverManagerConnectionProviderImpl.java:207)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.stopService(AbstractServiceRegistryImpl.java:390)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.destroy(AbstractServiceRegistryImpl.java:373)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.destroy(StandardServiceRegistryImpl.java:129)
+	at org.hibernate.boot.registry.StandardServiceRegistryBuilder.destroy(StandardServiceRegistryBuilder.java:339)
+	at server.HibernateSessionFactory.buildSessionFactory(HibernateSessionFactory.java:32)
+	at server.HibernateSessionFactory.<clinit>(HibernateSessionFactory.java:10)
+	at server.Service.findByStr(Service.java:63)
+	at server.ServerFactory.action(ServerFactory.java:133)
+	at server.ServerFactory.run(ServerFactory.java:65)
+
+сен 24, 2019 5:34:20 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 5:34:24 PM server.Trace$CustomLogger customLog
+INFO: Get message from server
+сен 24, 2019 5:34:54 PM server.Trace$CustomLogger customLog
+INFO: {"logIn":"web","clientId":"468c9438-706d-4ceb-8003-221fd5eaec21","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 5:34:58 PM server.Trace$CustomLogger customLog
+INFO: Search user by login: web
+сен 24, 2019 5:36:07 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 24, 2019 5:36:15 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 24, 2019 5:36:19 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 24, 2019 5:36:19 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/virtudb?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 24, 2019 5:36:19 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 24, 2019 5:36:19 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 24, 2019 5:36:19 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 24, 2019 5:36:49 PM org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator initiateService
+WARN: HHH000342: Could not obtain connection to query metadata : null
+сен 24, 2019 5:36:49 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 24, 2019 5:36:50 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+WARN: SQL Error: 0, SQLState: 08S01
+сен 24, 2019 5:36:50 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+ERROR: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+сен 24, 2019 5:36:50 PM org.hibernate.service.internal.AbstractServiceRegistryImpl stopService
+INFO: HHH000369: Error stopping service [class org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl]
+java.lang.NullPointerException
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.stop(DriverManagerConnectionProviderImpl.java:207)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.stopService(AbstractServiceRegistryImpl.java:390)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.destroy(AbstractServiceRegistryImpl.java:373)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.destroy(StandardServiceRegistryImpl.java:129)
+	at org.hibernate.boot.registry.StandardServiceRegistryBuilder.destroy(StandardServiceRegistryBuilder.java:339)
+	at server.HibernateSessionFactory.buildSessionFactory(HibernateSessionFactory.java:32)
+	at server.HibernateSessionFactory.<clinit>(HibernateSessionFactory.java:10)
+	at server.Service.findByStr(Service.java:63)
+	at server.ServerFactory.action(ServerFactory.java:133)
+	at server.ServerFactory.run(ServerFactory.java:65)
+
+сен 24, 2019 5:37:37 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 5:37:39 PM server.Trace$CustomLogger customLog
+INFO: Get message from server
+сен 24, 2019 5:37:49 PM server.Trace$CustomLogger customLog
+INFO: {"logIn":"lop","clientId":"c84cb967-4f51-4648-be54-1dbb6f3da274","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 5:37:56 PM server.Trace$CustomLogger customLog
+INFO: Search user by login: lop
+сен 24, 2019 5:38:15 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 24, 2019 5:38:50 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 24, 2019 5:38:53 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 24, 2019 5:38:54 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/virtudb?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 24, 2019 5:38:54 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 24, 2019 5:38:54 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 24, 2019 5:38:54 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 24, 2019 5:39:23 PM org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator initiateService
+WARN: HHH000342: Could not obtain connection to query metadata : null
+сен 24, 2019 5:39:24 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 24, 2019 5:39:24 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+WARN: SQL Error: 0, SQLState: 08S01
+сен 24, 2019 5:39:24 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+ERROR: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+сен 24, 2019 5:39:24 PM org.hibernate.service.internal.AbstractServiceRegistryImpl stopService
+INFO: HHH000369: Error stopping service [class org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl]
+java.lang.NullPointerException
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.stop(DriverManagerConnectionProviderImpl.java:207)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.stopService(AbstractServiceRegistryImpl.java:390)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.destroy(AbstractServiceRegistryImpl.java:373)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.destroy(StandardServiceRegistryImpl.java:129)
+	at org.hibernate.boot.registry.StandardServiceRegistryBuilder.destroy(StandardServiceRegistryBuilder.java:339)
+	at server.HibernateSessionFactory.buildSessionFactory(HibernateSessionFactory.java:32)
+	at server.HibernateSessionFactory.<clinit>(HibernateSessionFactory.java:10)
+	at server.Service.findByStr(Service.java:63)
+	at server.ServerFactory.action(ServerFactory.java:133)
+	at server.ServerFactory.run(ServerFactory.java:65)
+
+сен 24, 2019 5:53:45 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 5:53:57 PM server.Trace$CustomLogger customLog
+INFO: Get message from server
+сен 24, 2019 5:54:13 PM server.Trace$CustomLogger customLog
+INFO: {"logIn":"polya","clientId":"759cee81-7add-4be1-8b34-5b37c4e80679","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 5:54:21 PM server.Trace$CustomLogger customLog
+INFO: Search user by login: polya
+сен 24, 2019 5:54:31 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 24, 2019 5:55:02 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 24, 2019 5:55:06 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 24, 2019 5:55:06 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 24, 2019 5:55:06 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 24, 2019 5:55:06 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 24, 2019 5:55:06 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 24, 2019 5:55:37 PM org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator initiateService
+WARN: HHH000342: Could not obtain connection to query metadata : null
+сен 24, 2019 5:55:37 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 24, 2019 5:55:38 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+WARN: SQL Error: 0, SQLState: 08S01
+сен 24, 2019 5:55:38 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+ERROR: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+сен 24, 2019 5:55:38 PM org.hibernate.service.internal.AbstractServiceRegistryImpl stopService
+INFO: HHH000369: Error stopping service [class org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl]
+java.lang.NullPointerException
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.stop(DriverManagerConnectionProviderImpl.java:207)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.stopService(AbstractServiceRegistryImpl.java:390)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.destroy(AbstractServiceRegistryImpl.java:373)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.destroy(StandardServiceRegistryImpl.java:129)
+	at org.hibernate.boot.registry.StandardServiceRegistryBuilder.destroy(StandardServiceRegistryBuilder.java:339)
+	at server.HibernateSessionFactory.buildSessionFactory(HibernateSessionFactory.java:32)
+	at server.HibernateSessionFactory.<clinit>(HibernateSessionFactory.java:10)
+	at server.Service.findByStr(Service.java:63)
+	at server.ServerFactory.action(ServerFactory.java:133)
+	at server.ServerFactory.run(ServerFactory.java:65)
+
+сен 24, 2019 5:58:13 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 5:58:17 PM server.Trace$CustomLogger customLog
+INFO: Get message from server
+сен 24, 2019 5:58:44 PM server.Trace$CustomLogger customLog
+INFO: {"logIn":"poly","clientId":"0f502baf-dcd1-407a-863f-fb1a16141480","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 5:58:47 PM server.Trace$CustomLogger customLog
+INFO: Search user by login: poly
+сен 24, 2019 5:58:56 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 24, 2019 5:59:11 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 24, 2019 5:59:15 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 24, 2019 5:59:15 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 24, 2019 5:59:15 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 24, 2019 5:59:15 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 24, 2019 5:59:15 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 24, 2019 5:59:44 PM org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator initiateService
+WARN: HHH000342: Could not obtain connection to query metadata : null
+сен 24, 2019 5:59:44 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 24, 2019 5:59:45 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+WARN: SQL Error: 0, SQLState: 08S01
+сен 24, 2019 5:59:45 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+ERROR: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+сен 24, 2019 5:59:45 PM org.hibernate.service.internal.AbstractServiceRegistryImpl stopService
+INFO: HHH000369: Error stopping service [class org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl]
+java.lang.NullPointerException
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.stop(DriverManagerConnectionProviderImpl.java:207)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.stopService(AbstractServiceRegistryImpl.java:390)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.destroy(AbstractServiceRegistryImpl.java:373)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.destroy(StandardServiceRegistryImpl.java:129)
+	at org.hibernate.boot.registry.StandardServiceRegistryBuilder.destroy(StandardServiceRegistryBuilder.java:339)
+	at server.HibernateSessionFactory.buildSessionFactory(HibernateSessionFactory.java:32)
+	at server.HibernateSessionFactory.<clinit>(HibernateSessionFactory.java:10)
+	at server.Service.findByStr(Service.java:63)
+	at server.ServerFactory.action(ServerFactory.java:133)
+	at server.ServerFactory.run(ServerFactory.java:65)
+
+сен 24, 2019 6:19:00 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 6:19:07 PM server.Trace$CustomLogger customLog
+INFO: Get message from server
+сен 24, 2019 6:19:16 PM server.Trace$CustomLogger customLog
+INFO: {"logIn":"sf","clientId":"3b7e1910-f12b-467f-bba0-680d7fad3c32","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 6:19:16 PM server.Trace$CustomLogger customLog
+INFO: Search user by login: sf
+сен 24, 2019 6:19:17 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 24, 2019 6:19:17 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 24, 2019 6:19:17 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 24, 2019 6:19:17 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 24, 2019 6:19:17 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 24, 2019 6:19:17 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 24, 2019 6:19:17 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 24, 2019 6:19:18 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 24, 2019 6:19:19 PM server.Trace$CustomLogger customLog
+INFO: User doesn't exist by login: sf
+сен 24, 2019 6:19:19 PM server.Trace$CustomLogger customLog
+INFO: Attempt to create user by login: sf
+сен 24, 2019 6:19:19 PM server.Trace$CustomLogger customLog
+INFO: Client ID: 3b7e1910-f12b-467f-bba0-680d7fad3c32. User: sf
+сен 24, 2019 6:19:19 PM server.Trace$CustomLogger customLog
+INFO: Client ID: 3b7e1910-f12b-467f-bba0-680d7fad3c32. View common content
+сен 24, 2019 6:23:14 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 6:23:17 PM server.Trace$CustomLogger customLog
+INFO: Get message from server
+сен 24, 2019 6:23:33 PM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"429700be-8f73-433a-bd47-70839d837923","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 6:23:37 PM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 24, 2019 6:23:52 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 24, 2019 6:24:01 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 24, 2019 6:24:04 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 24, 2019 6:24:05 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 24, 2019 6:24:05 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 24, 2019 6:24:05 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 24, 2019 6:24:05 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 24, 2019 6:24:35 PM org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator initiateService
+WARN: HHH000342: Could not obtain connection to query metadata : null
+сен 24, 2019 6:24:36 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 24, 2019 6:24:36 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+WARN: SQL Error: 0, SQLState: 08S01
+сен 24, 2019 6:24:36 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+ERROR: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+сен 24, 2019 6:24:36 PM org.hibernate.service.internal.AbstractServiceRegistryImpl stopService
+INFO: HHH000369: Error stopping service [class org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl]
+java.lang.NullPointerException
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.stop(DriverManagerConnectionProviderImpl.java:207)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.stopService(AbstractServiceRegistryImpl.java:390)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.destroy(AbstractServiceRegistryImpl.java:373)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.destroy(StandardServiceRegistryImpl.java:129)
+	at org.hibernate.boot.registry.StandardServiceRegistryBuilder.destroy(StandardServiceRegistryBuilder.java:339)
+	at server.HibernateSessionFactory.buildSessionFactory(HibernateSessionFactory.java:32)
+	at server.HibernateSessionFactory.<clinit>(HibernateSessionFactory.java:10)
+	at server.Service.findByStr(Service.java:63)
+	at server.ServerFactory.action(ServerFactory.java:133)
+	at server.ServerFactory.run(ServerFactory.java:65)
+
+сен 24, 2019 6:26:47 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 6:26:56 PM server.Trace$CustomLogger customLog
+INFO: Get message from server
+сен 24, 2019 6:27:05 PM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"0d0a6e12-1e17-4a17-b4d8-6e1145b1bc64","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 6:27:07 PM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 24, 2019 6:27:09 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 24, 2019 6:27:11 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 24, 2019 6:27:12 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 24, 2019 6:27:12 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 24, 2019 6:27:12 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 24, 2019 6:27:12 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 24, 2019 6:27:12 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 24, 2019 6:27:18 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 24, 2019 6:30:07 PM server.Trace$CustomLogger customLog
+INFO: User doesn't exist by login: Alla
+сен 24, 2019 6:30:18 PM server.Trace$CustomLogger customLog
+INFO: Attempt to create user by login: Alla
+сен 24, 2019 6:30:33 PM server.Trace$CustomLogger customLog
+INFO: Client ID: 0d0a6e12-1e17-4a17-b4d8-6e1145b1bc64. User: Alla
+сен 24, 2019 6:30:51 PM server.Trace$CustomLogger customLog
+INFO: Client ID: 0d0a6e12-1e17-4a17-b4d8-6e1145b1bc64. View common content
+сен 24, 2019 6:41:13 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 6:41:16 PM server.Trace$CustomLogger customLog
+INFO: Get message from server
+сен 24, 2019 6:41:30 PM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"76f778b9-6684-4b16-9ea6-26329e5c71c2","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 6:41:36 PM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 24, 2019 6:41:39 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 24, 2019 6:41:41 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 24, 2019 6:41:42 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 24, 2019 6:41:42 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 24, 2019 6:41:42 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 24, 2019 6:41:42 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 24, 2019 6:41:42 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 24, 2019 6:41:47 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 24, 2019 6:42:09 PM server.Trace$CustomLogger customLog
+INFO: Client ID: 76f778b9-6684-4b16-9ea6-26329e5c71c2. User: Alla
+сен 24, 2019 6:42:19 PM server.Trace$CustomLogger customLog
+INFO: Client ID: 76f778b9-6684-4b16-9ea6-26329e5c71c2. View common content
+сен 24, 2019 6:48:10 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 6:48:24 PM server.Trace$CustomLogger customLog
+INFO: Get message from server
+сен 24, 2019 6:49:06 PM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"571fbfae-9035-4ca6-81d5-abf7dcc90f5e","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 6:49:08 PM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 24, 2019 6:49:09 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 24, 2019 6:49:10 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 24, 2019 6:49:11 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 24, 2019 6:49:11 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 24, 2019 6:49:11 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 24, 2019 6:49:11 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 24, 2019 6:49:11 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 24, 2019 6:49:17 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 24, 2019 6:49:49 PM server.Trace$CustomLogger customLog
+INFO: Client ID: 571fbfae-9035-4ca6-81d5-abf7dcc90f5e. User: Alla
+сен 24, 2019 6:50:55 PM server.Trace$CustomLogger customLog
+INFO: Client ID: 571fbfae-9035-4ca6-81d5-abf7dcc90f5e. View common content
+сен 24, 2019 7:20:19 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 7:20:22 PM server.Trace$CustomLogger customLog
+INFO: Get message from server
+сен 24, 2019 7:20:29 PM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"77e1666b-d807-43f8-818e-9248058689ca","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 7:20:29 PM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 24, 2019 7:20:29 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 24, 2019 7:20:29 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 24, 2019 7:20:29 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 24, 2019 7:20:29 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 24, 2019 7:20:29 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 24, 2019 7:20:29 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 24, 2019 7:20:29 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 24, 2019 7:20:30 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 24, 2019 7:20:31 PM server.Trace$CustomLogger customLog
+INFO: Client ID: 77e1666b-d807-43f8-818e-9248058689ca. User: Alla
+сен 24, 2019 7:20:31 PM server.Trace$CustomLogger customLog
+INFO: Client ID: 77e1666b-d807-43f8-818e-9248058689ca. View common content
+сен 24, 2019 7:23:50 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 7:23:54 PM server.Trace$CustomLogger customLog
+INFO: Get message from server
+сен 24, 2019 7:24:02 PM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"a088d187-ae43-479a-94c8-e4bd38bf5af0","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 7:24:02 PM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 24, 2019 7:24:02 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 24, 2019 7:24:03 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 24, 2019 7:24:03 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 24, 2019 7:24:03 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 24, 2019 7:24:03 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 24, 2019 7:24:03 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 24, 2019 7:24:03 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 24, 2019 7:24:04 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 24, 2019 7:24:05 PM server.Trace$CustomLogger customLog
+INFO: Client ID: a088d187-ae43-479a-94c8-e4bd38bf5af0. User: Alla
+сен 24, 2019 7:24:05 PM server.Trace$CustomLogger customLog
+INFO: Client ID: a088d187-ae43-479a-94c8-e4bd38bf5af0. View common content
+сен 24, 2019 7:24:05 PM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"a088d187-ae43-479a-94c8-e4bd38bf5af0","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 24, 2019 7:25:06 PM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"a088d187-ae43-479a-94c8-e4bd38bf5af0","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 24, 2019 7:25:06 PM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 24, 2019 7:25:06 PM server.Trace$CustomLogger customLog
+INFO: Client ID: a088d187-ae43-479a-94c8-e4bd38bf5af0. User: Alla
+сен 24, 2019 7:25:06 PM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"a088d187-ae43-479a-94c8-e4bd38bf5af0","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 24, 2019 7:28:42 PM server.Trace$CustomLogger customLog
+INFO: Get message from server
+сен 24, 2019 7:29:00 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 7:29:05 PM server.Trace$CustomLogger customLog
+INFO: Get message from server
+сен 24, 2019 7:29:13 PM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"e2e7f0b1-b0e6-49f6-9c05-0bcaaf1d4b56","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 7:29:13 PM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 24, 2019 7:29:13 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 24, 2019 7:29:13 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 24, 2019 7:29:14 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 24, 2019 7:29:14 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 24, 2019 7:29:14 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 24, 2019 7:29:14 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 24, 2019 7:29:14 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 24, 2019 7:29:14 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 24, 2019 7:29:15 PM server.Trace$CustomLogger customLog
+INFO: Client ID: e2e7f0b1-b0e6-49f6-9c05-0bcaaf1d4b56. User: Alla
+сен 24, 2019 7:29:15 PM server.Trace$CustomLogger customLog
+INFO: Client ID: e2e7f0b1-b0e6-49f6-9c05-0bcaaf1d4b56. View common content
+сен 24, 2019 7:29:16 PM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"e2e7f0b1-b0e6-49f6-9c05-0bcaaf1d4b56","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 24, 2019 7:30:44 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 7:30:56 PM server.Trace$CustomLogger customLog
+INFO: Get message from server
+сен 24, 2019 7:31:06 PM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"efa5266b-9cd2-40e8-92dd-d8cbd36a627f","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 7:31:06 PM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 24, 2019 7:31:06 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 24, 2019 7:31:07 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 24, 2019 7:31:07 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 24, 2019 7:31:07 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 24, 2019 7:31:07 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 24, 2019 7:31:07 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 24, 2019 7:31:07 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 24, 2019 7:31:08 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 24, 2019 7:31:09 PM server.Trace$CustomLogger customLog
+INFO: Client ID: efa5266b-9cd2-40e8-92dd-d8cbd36a627f. User: Alla
+сен 24, 2019 7:31:09 PM server.Trace$CustomLogger customLog
+INFO: Client ID: efa5266b-9cd2-40e8-92dd-d8cbd36a627f. View common content
+сен 24, 2019 7:31:09 PM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"efa5266b-9cd2-40e8-92dd-d8cbd36a627f","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 24, 2019 7:33:12 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 7:33:14 PM server.Trace$CustomLogger customLog
+INFO: Get message from server
+сен 24, 2019 7:33:28 PM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"2f675296-1e76-4d53-8963-4073d6725baa","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 7:33:28 PM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 24, 2019 7:33:29 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 24, 2019 7:33:29 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 24, 2019 7:33:29 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 24, 2019 7:33:29 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 24, 2019 7:33:29 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 24, 2019 7:33:29 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 24, 2019 7:33:29 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 24, 2019 7:33:30 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 24, 2019 7:33:31 PM server.Trace$CustomLogger customLog
+INFO: Client ID: 2f675296-1e76-4d53-8963-4073d6725baa. User: Alla
+сен 24, 2019 7:33:31 PM server.Trace$CustomLogger customLog
+INFO: Client ID: 2f675296-1e76-4d53-8963-4073d6725baa. View common content
+сен 24, 2019 7:33:31 PM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"2f675296-1e76-4d53-8963-4073d6725baa","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 24, 2019 7:59:47 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 7:59:51 PM server.Trace$CustomLogger customLog
+INFO: Get message from server
+сен 24, 2019 10:08:33 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 10:08:37 PM server.Trace$CustomLogger customLog
+INFO: Get message from server
+сен 24, 2019 10:11:01 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 10:13:09 PM server.Trace$CustomLogger customLog
+INFO: Get message from server
+сен 24, 2019 10:16:17 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 10:16:22 PM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 24, 2019 10:17:43 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 10:17:47 PM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 24, 2019 10:28:38 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 10:29:49 PM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 24, 2019 10:29:49 PM server.Trace$CustomLogger customLog
+INFO: {"clientId":"352a7788-a912-4376-9903-ba24ef77b82d","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 10:29:49 PM server.Trace$CustomLogger customLog
+WARNING: Login is not valid
+сен 24, 2019 10:29:49 PM server.Trace$CustomLogger customLog
+INFO: RESPONSE: Login is not valid
+сен 24, 2019 10:32:52 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 10:33:12 PM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 24, 2019 10:33:12 PM server.Trace$CustomLogger customLog
+INFO: {"clientId":"5b39d379-6b43-484e-9c08-4e9523114787","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 10:33:12 PM server.Trace$CustomLogger customLog
+WARNING: Login is not valid
+сен 24, 2019 10:33:12 PM server.Trace$CustomLogger customLog
+INFO: RESPONSE: Login is not valid
+сен 24, 2019 10:34:48 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 10:35:06 PM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 24, 2019 10:35:06 PM server.Trace$CustomLogger customLog
+INFO: {"clientId":"b46f90c5-8db0-49ca-91aa-c2ae058b57c5","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 10:35:06 PM server.Trace$CustomLogger customLog
+WARNING: Login is not valid
+сен 24, 2019 10:35:06 PM server.Trace$CustomLogger customLog
+INFO: RESPONSE: Login is not valid
+сен 24, 2019 10:37:44 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 10:38:06 PM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 24, 2019 10:38:06 PM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"6a082862-ad85-4b0b-a7fd-704e761f74c2","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 10:38:06 PM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 24, 2019 10:38:07 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 24, 2019 10:38:07 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 24, 2019 10:38:07 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 24, 2019 10:38:07 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 24, 2019 10:38:07 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 24, 2019 10:38:07 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 24, 2019 10:38:07 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 24, 2019 10:38:08 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 24, 2019 10:38:09 PM server.Trace$CustomLogger customLog
+INFO: Client ID: 6a082862-ad85-4b0b-a7fd-704e761f74c2. User: Alla
+сен 24, 2019 10:38:09 PM server.Trace$CustomLogger customLog
+INFO: Client ID: 6a082862-ad85-4b0b-a7fd-704e761f74c2. View common content
+сен 24, 2019 10:38:09 PM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"6a082862-ad85-4b0b-a7fd-704e761f74c2","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 24, 2019 10:39:52 PM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 24, 2019 10:39:52 PM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"6a082862-ad85-4b0b-a7fd-704e761f74c2","rq":{"contentViewingByUser":true},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 24, 2019 10:39:52 PM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 24, 2019 10:39:52 PM server.Trace$CustomLogger customLog
+INFO: Client ID: 6a082862-ad85-4b0b-a7fd-704e761f74c2. User: Alla
+сен 24, 2019 10:39:52 PM server.Trace$CustomLogger customLog
+INFO: Client ID: 6a082862-ad85-4b0b-a7fd-704e761f74c2. View user content
+сен 24, 2019 10:41:16 PM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 24, 2019 10:41:37 PM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 24, 2019 10:41:37 PM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"96abf49d-4f10-4530-82b5-03e8512f91e7","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 10:41:37 PM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 24, 2019 10:41:37 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 24, 2019 10:41:38 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 24, 2019 10:41:38 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 24, 2019 10:41:38 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 24, 2019 10:41:38 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 24, 2019 10:41:38 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 24, 2019 10:41:38 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 24, 2019 10:41:39 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 24, 2019 10:41:40 PM server.Trace$CustomLogger customLog
+INFO: Client ID: 96abf49d-4f10-4530-82b5-03e8512f91e7. User: Alla
+сен 24, 2019 10:41:40 PM server.Trace$CustomLogger customLog
+INFO: Client ID: 96abf49d-4f10-4530-82b5-03e8512f91e7. View common content
+сен 24, 2019 10:41:40 PM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"96abf49d-4f10-4530-82b5-03e8512f91e7","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 24, 2019 10:42:52 PM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 24, 2019 10:42:52 PM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"21e918f2-d19a-4499-8f53-50ed0fad44c3","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 10:42:52 PM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 24, 2019 10:42:52 PM server.Trace$CustomLogger customLog
+INFO: Client ID: 21e918f2-d19a-4499-8f53-50ed0fad44c3. User: Alla
+сен 24, 2019 10:42:52 PM server.Trace$CustomLogger customLog
+INFO: Client ID: 21e918f2-d19a-4499-8f53-50ed0fad44c3. View common content
+сен 24, 2019 10:42:52 PM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"21e918f2-d19a-4499-8f53-50ed0fad44c3","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 24, 2019 10:50:52 PM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 24, 2019 10:50:52 PM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"21e918f2-d19a-4499-8f53-50ed0fad44c3","rq":{"contentViewing":true},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 24, 2019 10:50:52 PM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 24, 2019 10:50:52 PM server.Trace$CustomLogger customLog
+INFO: Client ID: 21e918f2-d19a-4499-8f53-50ed0fad44c3. User: Alla
+сен 24, 2019 10:50:52 PM server.Trace$CustomLogger customLog
+INFO: Client ID: 21e918f2-d19a-4499-8f53-50ed0fad44c3. View common content
+сен 24, 2019 10:50:52 PM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"21e918f2-d19a-4499-8f53-50ed0fad44c3","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 24, 2019 10:53:50 PM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 24, 2019 10:53:50 PM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"95eb0cd6-13d5-4212-bfa1-f477096fd992","rq":{"contentViewing":true},"rs":{}}
+сен 24, 2019 10:53:50 PM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 24, 2019 10:53:50 PM server.Trace$CustomLogger customLog
+INFO: Client ID: 95eb0cd6-13d5-4212-bfa1-f477096fd992. User: Alla
+сен 24, 2019 10:53:50 PM server.Trace$CustomLogger customLog
+INFO: Client ID: 95eb0cd6-13d5-4212-bfa1-f477096fd992. View common content
+сен 24, 2019 10:53:50 PM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"95eb0cd6-13d5-4212-bfa1-f477096fd992","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 12:24:04 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 12:24:31 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 12:24:31 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"2fada8f0-f54d-4b03-b0d4-08b78a4b01d4","rq":{"contentViewing":true},"rs":{}}
+сен 25, 2019 12:24:31 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 12:24:32 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 12:24:32 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 12:24:32 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 12:24:32 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 12:24:32 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 12:24:32 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 12:24:32 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 12:24:33 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 12:24:34 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 2fada8f0-f54d-4b03-b0d4-08b78a4b01d4. User: Alla
+сен 25, 2019 12:24:34 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 2fada8f0-f54d-4b03-b0d4-08b78a4b01d4. View common content
+сен 25, 2019 12:24:34 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"2fada8f0-f54d-4b03-b0d4-08b78a4b01d4","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 12:36:15 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 12:36:31 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 12:36:31 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"90edb0da-bd74-45eb-9889-2e1e86480c8a","rq":{"contentViewing":true},"rs":{}}
+сен 25, 2019 12:36:31 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 12:36:31 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 12:36:32 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 12:36:32 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 12:36:32 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 12:36:32 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 12:36:32 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 12:36:32 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 12:36:33 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 12:36:34 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 90edb0da-bd74-45eb-9889-2e1e86480c8a. User: Alla
+сен 25, 2019 12:36:34 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 90edb0da-bd74-45eb-9889-2e1e86480c8a. View common content
+сен 25, 2019 12:36:34 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"90edb0da-bd74-45eb-9889-2e1e86480c8a","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 12:38:55 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 12:38:55 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"47ad7152-6ee9-4cc2-a52c-38b17446ea86","rq":{"contentViewing":true},"rs":{}}
+сен 25, 2019 12:38:55 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 12:38:55 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 47ad7152-6ee9-4cc2-a52c-38b17446ea86. User: Alla
+сен 25, 2019 12:38:55 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 47ad7152-6ee9-4cc2-a52c-38b17446ea86. View common content
+сен 25, 2019 12:38:55 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"47ad7152-6ee9-4cc2-a52c-38b17446ea86","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 12:39:17 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 12:39:17 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"47ad7152-6ee9-4cc2-a52c-38b17446ea86","rq":{"addContent":2},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 12:39:17 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 12:39:17 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 47ad7152-6ee9-4cc2-a52c-38b17446ea86. User: Alla
+сен 25, 2019 12:39:17 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 47ad7152-6ee9-4cc2-a52c-38b17446ea86. Add content
+сен 25, 2019 12:39:17 AM server.Trace$CustomLogger customLog
+INFO: Search link by login+contentId: Alla, 2
+сен 25, 2019 12:39:17 AM org.hibernate.hql.internal.ast.ErrorTracker reportError
+ERROR: line 1:8: unexpected token: *
+сен 25, 2019 12:39:17 AM org.hibernate.hql.internal.ast.ErrorTracker reportError
+ERROR: line 1:8: unexpected token: *
+line 1:8: unexpected token: *
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.selectClause(HqlBaseParser.java:1263)
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.selectFrom(HqlBaseParser.java:1040)
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.queryRule(HqlBaseParser.java:748)
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.selectStatement(HqlBaseParser.java:319)
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.statement(HqlBaseParser.java:198)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.parse(QueryTranslatorImpl.java:290)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.doCompile(QueryTranslatorImpl.java:189)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.compile(QueryTranslatorImpl.java:144)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.<init>(HQLQueryPlan.java:113)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.<init>(HQLQueryPlan.java:73)
+	at org.hibernate.engine.query.spi.QueryPlanCache.getHQLQueryPlan(QueryPlanCache.java:155)
+	at org.hibernate.internal.AbstractSharedSessionContract.getQueryPlan(AbstractSharedSessionContract.java:622)
+	at org.hibernate.internal.AbstractSharedSessionContract.createQuery(AbstractSharedSessionContract.java:731)
+	at org.hibernate.internal.AbstractSharedSessionContract.createQuery(AbstractSharedSessionContract.java:113)
+	at server.Service.executeStatementSelect(Service.java:49)
+	at entities.LinkEntity.getLink(LinkEntity.java:59)
+	at server.ServerFactory.action(ServerFactory.java:142)
+	at server.ServerFactory.run(ServerFactory.java:57)
+
+сен 25, 2019 1:18:36 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 1:18:47 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 1:18:47 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"c7288fa2-2d20-4de4-bff1-1f5a893087a1","rq":{"contentViewing":true},"rs":{}}
+сен 25, 2019 1:18:47 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 1:18:47 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 1:18:48 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 1:18:48 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 1:18:48 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 1:18:48 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 1:18:48 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 1:18:48 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 1:18:49 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 1:18:49 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PoolState stop
+INFO: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 1:40:50 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 1:41:02 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 1:41:02 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"559486ae-a9c6-4fcc-855d-f37a6aa8ab54","rq":{"contentViewing":true},"rs":{}}
+сен 25, 2019 1:41:02 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 1:41:03 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 1:41:03 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 1:41:03 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 1:41:03 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 1:41:03 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 1:41:03 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 1:41:03 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 1:41:04 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 1:41:04 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PoolState stop
+INFO: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 1:44:28 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 1:44:38 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 1:44:38 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"c108207d-a314-4823-a932-c9a033eac3fb","rq":{"contentViewing":true},"rs":{}}
+сен 25, 2019 1:44:38 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 1:44:38 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 1:44:38 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 1:44:39 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 1:44:39 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 1:44:39 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 1:44:39 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 1:44:39 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 1:44:39 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 1:44:39 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PoolState stop
+INFO: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 1:48:48 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 1:48:57 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 1:48:57 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"90115f46-8151-4eb1-9026-179952ba665a","rq":{"contentViewing":true},"rs":{}}
+сен 25, 2019 1:48:57 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 1:48:57 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 1:48:58 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 1:48:58 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 1:48:58 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 1:48:58 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 1:48:58 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 1:48:58 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 1:48:59 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 1:48:59 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PoolState stop
+INFO: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 1:49:48 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 1:50:04 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 1:50:04 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"86df740d-22b8-4e69-aec8-625b311cecac","rq":{"contentViewing":true},"rs":{}}
+сен 25, 2019 1:50:04 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 1:50:04 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 1:50:05 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 1:50:05 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 1:50:05 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 1:50:05 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 1:50:05 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 1:50:05 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 1:50:06 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 1:50:06 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PoolState stop
+INFO: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 1:54:37 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 1:54:44 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 1:54:44 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"95add15b-c1ca-4859-84b7-a5cfcb9caf3c","rq":{"contentViewing":true},"rs":{}}
+сен 25, 2019 1:54:44 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 1:54:44 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 1:54:45 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 1:54:45 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 1:54:45 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 1:54:45 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 1:54:45 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 1:54:45 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 1:54:46 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 1:54:46 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PoolState stop
+INFO: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 1:55:40 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 1:55:53 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 1:55:53 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"d9ee88fe-ec2a-4afe-ad7f-7ee99108a53f","rq":{"contentViewing":true},"rs":{}}
+сен 25, 2019 1:55:53 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 1:55:53 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 1:55:53 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 1:55:54 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 1:55:54 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 1:55:54 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 1:55:54 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 1:55:54 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 1:55:54 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 1:55:56 AM server.Trace$CustomLogger customLog
+INFO: Client ID: d9ee88fe-ec2a-4afe-ad7f-7ee99108a53f. User: Alla
+сен 25, 2019 1:55:56 AM server.Trace$CustomLogger customLog
+INFO: Client ID: d9ee88fe-ec2a-4afe-ad7f-7ee99108a53f. View common content
+сен 25, 2019 1:55:56 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"d9ee88fe-ec2a-4afe-ad7f-7ee99108a53f","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 1:56:06 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 1:56:06 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"d9ee88fe-ec2a-4afe-ad7f-7ee99108a53f","rq":{"addContent":2},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 1:56:06 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 1:56:06 AM server.Trace$CustomLogger customLog
+INFO: Client ID: d9ee88fe-ec2a-4afe-ad7f-7ee99108a53f. User: Alla
+сен 25, 2019 1:56:06 AM server.Trace$CustomLogger customLog
+INFO: Client ID: d9ee88fe-ec2a-4afe-ad7f-7ee99108a53f. Add content
+сен 25, 2019 1:56:06 AM server.Trace$CustomLogger customLog
+INFO: Search link by login+contentId: Alla, 2
+сен 25, 2019 2:01:07 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 2:01:16 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:01:16 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"aLLA","clientId":"2e65c57f-97cd-47f7-a4c5-d8c524f41878","rq":{"contentViewing":true},"rs":{}}
+сен 25, 2019 2:01:16 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: aLLA
+сен 25, 2019 2:01:16 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 2:01:17 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 2:01:17 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 2:01:17 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 2:01:17 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 2:01:17 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 2:01:17 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 2:01:17 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 2:01:18 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PoolState stop
+INFO: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 2:03:02 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 2:13:43 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 2:14:00 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:14:00 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"alla","clientId":"9d8abe96-9741-4e67-b74c-8ef550380979","rq":{"contentViewing":true},"rs":{}}
+сен 25, 2019 2:14:00 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: alla
+сен 25, 2019 2:14:01 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 2:14:01 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 2:14:01 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 2:14:01 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 2:14:01 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 2:14:01 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 2:14:01 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 2:14:02 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 2:14:02 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PoolState stop
+INFO: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 2:16:16 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 2:16:36 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:16:36 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"ad2e6fae-8e3e-48fa-8a44-7a6d58a43fa7","rq":{"contentViewing":true},"rs":{}}
+сен 25, 2019 2:16:36 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:16:36 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 2:16:36 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 2:16:36 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 2:16:36 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 2:16:36 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 2:16:36 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 2:16:36 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 2:16:37 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 2:16:37 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PoolState stop
+INFO: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 2:18:09 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 2:18:16 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:18:16 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"b89d20de-4e51-4195-832b-6c05595df83f","rq":{"contentViewing":true},"rs":{}}
+сен 25, 2019 2:18:16 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:18:16 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 2:18:17 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 2:18:17 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 2:18:17 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 2:18:17 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 2:18:17 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 2:18:17 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 2:18:18 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 2:18:18 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PoolState stop
+INFO: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 2:18:39 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 2:18:48 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:18:48 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"4aed9a16-4cb7-45ae-a8a1-750f3f620847","rq":{"contentViewing":true},"rs":{}}
+сен 25, 2019 2:18:48 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:18:48 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 2:18:49 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 2:18:49 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 2:18:49 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 2:18:49 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 2:18:49 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 2:18:49 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 2:18:50 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 2:18:50 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PoolState stop
+INFO: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 2:22:17 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 2:22:25 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:22:25 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"fe9d365a-7cfb-4a91-a6a5-3f6ad5572176","rq":{"contentViewing":true},"rs":{}}
+сен 25, 2019 2:22:25 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:22:25 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 2:22:25 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 2:22:26 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 2:22:26 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 2:22:26 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 2:22:26 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 2:22:26 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 2:22:26 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 2:22:27 AM org.hibernate.tuple.PojoInstantiator <init>
+INFO: HHH000182: No default (no-argument) constructor for class: entities.LinkEntityPK (class must be instantiated by Interceptor)
+сен 25, 2019 2:22:27 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PoolState stop
+INFO: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 2:23:30 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 2:23:37 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:23:37 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"7139cef5-9506-457c-86a1-71a6713a8c54","rq":{"contentViewing":true},"rs":{}}
+сен 25, 2019 2:23:37 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:23:37 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 2:23:38 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 2:23:38 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 2:23:38 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 2:23:38 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 2:23:38 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 2:23:38 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 2:23:38 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 2:23:39 AM org.hibernate.tuple.PojoInstantiator <init>
+INFO: HHH000182: No default (no-argument) constructor for class: entities.LinkEntityPK (class must be instantiated by Interceptor)
+сен 25, 2019 2:23:40 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 7139cef5-9506-457c-86a1-71a6713a8c54. User: Alla
+сен 25, 2019 2:23:40 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 7139cef5-9506-457c-86a1-71a6713a8c54. View common content
+сен 25, 2019 2:23:40 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"7139cef5-9506-457c-86a1-71a6713a8c54","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:23:54 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:23:54 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"7139cef5-9506-457c-86a1-71a6713a8c54","rq":{"addContent":2},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:23:54 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:23:54 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 7139cef5-9506-457c-86a1-71a6713a8c54. User: Alla
+сен 25, 2019 2:23:54 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 7139cef5-9506-457c-86a1-71a6713a8c54. Add content
+сен 25, 2019 2:23:54 AM server.Trace$CustomLogger customLog
+INFO: Search link by login+contentId: Alla, 2
+сен 25, 2019 2:25:06 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 2:25:15 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:25:15 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"611b4159-d3a1-4111-9cd1-fe848a2bde3a","rq":{"contentViewing":true},"rs":{}}
+сен 25, 2019 2:25:15 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:25:15 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 2:25:16 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 2:25:16 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 2:25:16 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 2:25:16 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 2:25:16 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 2:25:16 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 2:25:17 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 2:25:17 AM org.hibernate.tuple.PojoInstantiator <init>
+INFO: HHH000182: No default (no-argument) constructor for class: entities.LinkEntityPK (class must be instantiated by Interceptor)
+сен 25, 2019 2:25:18 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 611b4159-d3a1-4111-9cd1-fe848a2bde3a. User: Alla
+сен 25, 2019 2:25:18 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 611b4159-d3a1-4111-9cd1-fe848a2bde3a. View common content
+сен 25, 2019 2:25:18 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"611b4159-d3a1-4111-9cd1-fe848a2bde3a","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:25:27 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:25:27 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"611b4159-d3a1-4111-9cd1-fe848a2bde3a","rq":{"addContent":3},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:25:27 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:25:27 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 611b4159-d3a1-4111-9cd1-fe848a2bde3a. User: Alla
+сен 25, 2019 2:25:27 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 611b4159-d3a1-4111-9cd1-fe848a2bde3a. Add content
+сен 25, 2019 2:25:27 AM server.Trace$CustomLogger customLog
+INFO: Search link by login+contentId: Alla, 3
+сен 25, 2019 2:25:27 AM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+WARN: SQL Error: 1054, SQLState: 42S22
+сен 25, 2019 2:25:27 AM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+ERROR: Unknown column 'linkentity0_.contentByContentId' in 'field list'
+сен 25, 2019 2:25:27 AM org.hibernate.event.internal.DefaultLoadEventListener doOnLoad
+INFO: HHH000327: Error performing load command : org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+сен 25, 2019 2:28:03 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 2:28:21 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:28:21 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"d658c33e-d2df-4144-88fe-19035f1aac2b","rq":{"contentViewing":true},"rs":{}}
+сен 25, 2019 2:28:21 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:28:21 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 2:28:22 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 2:28:22 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 2:28:22 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 2:28:22 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 2:28:22 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 2:28:22 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 2:28:23 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 2:28:23 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PoolState stop
+INFO: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 2:29:05 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 2:29:13 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:29:13 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"1970cd25-6818-442d-8c4a-3107fb1522d1","rq":{"contentViewing":true},"rs":{}}
+сен 25, 2019 2:29:13 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:29:13 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 2:29:14 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 2:29:14 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 2:29:14 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 2:29:14 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 2:29:14 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 2:29:14 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 2:29:15 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 2:29:15 AM org.hibernate.tuple.PojoInstantiator <init>
+INFO: HHH000182: No default (no-argument) constructor for class: entities.LinkEntityPK (class must be instantiated by Interceptor)
+сен 25, 2019 2:29:16 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 1970cd25-6818-442d-8c4a-3107fb1522d1. User: Alla
+сен 25, 2019 2:29:16 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 1970cd25-6818-442d-8c4a-3107fb1522d1. View common content
+сен 25, 2019 2:29:16 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"1970cd25-6818-442d-8c4a-3107fb1522d1","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:29:23 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:29:23 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"1970cd25-6818-442d-8c4a-3107fb1522d1","rq":{"addContent":3},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:29:23 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:29:23 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 1970cd25-6818-442d-8c4a-3107fb1522d1. User: Alla
+сен 25, 2019 2:29:23 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 1970cd25-6818-442d-8c4a-3107fb1522d1. Add content
+сен 25, 2019 2:29:23 AM server.Trace$CustomLogger customLog
+INFO: Search link by login+contentId: Alla, 3
+сен 25, 2019 2:29:23 AM server.Trace$CustomLogger customLog
+INFO: Link doesn't exist by login+contentId: Alla, 3
+сен 25, 2019 2:29:23 AM server.Trace$CustomLogger customLog
+INFO: Attempt to create link by login+contentId: Alla, 3
+сен 25, 2019 2:30:02 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 2:30:07 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:30:07 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"da0617a1-7172-42f2-be78-37f7dea0ed66","rq":{"contentViewing":true},"rs":{}}
+сен 25, 2019 2:30:07 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:30:07 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 2:30:08 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 2:30:08 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 2:30:08 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 2:30:08 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 2:30:08 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 2:30:08 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 2:30:09 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 2:30:10 AM server.Trace$CustomLogger customLog
+INFO: Client ID: da0617a1-7172-42f2-be78-37f7dea0ed66. User: Alla
+сен 25, 2019 2:30:10 AM server.Trace$CustomLogger customLog
+INFO: Client ID: da0617a1-7172-42f2-be78-37f7dea0ed66. View common content
+сен 25, 2019 2:30:10 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"da0617a1-7172-42f2-be78-37f7dea0ed66","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:30:16 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:30:16 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"da0617a1-7172-42f2-be78-37f7dea0ed66","rq":{"addContent":3},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:30:16 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:30:16 AM server.Trace$CustomLogger customLog
+INFO: Client ID: da0617a1-7172-42f2-be78-37f7dea0ed66. User: Alla
+сен 25, 2019 2:30:16 AM server.Trace$CustomLogger customLog
+INFO: Client ID: da0617a1-7172-42f2-be78-37f7dea0ed66. Add content
+сен 25, 2019 2:30:16 AM server.Trace$CustomLogger customLog
+INFO: Search link by login+contentId: Alla, 3
+сен 25, 2019 2:30:16 AM server.Trace$CustomLogger customLog
+INFO: Link doesn't exist by login+contentId: Alla, 3
+сен 25, 2019 2:30:16 AM server.Trace$CustomLogger customLog
+INFO: Attempt to create link by login+contentId: Alla, 3
+сен 25, 2019 2:30:16 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"da0617a1-7172-42f2-be78-37f7dea0ed66","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:30:58 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:30:58 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"da0617a1-7172-42f2-be78-37f7dea0ed66","rq":{"contentViewingByUser":true},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:30:58 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:30:58 AM server.Trace$CustomLogger customLog
+INFO: Client ID: da0617a1-7172-42f2-be78-37f7dea0ed66. User: Alla
+сен 25, 2019 2:30:58 AM server.Trace$CustomLogger customLog
+INFO: Client ID: da0617a1-7172-42f2-be78-37f7dea0ed66. View user content
+сен 25, 2019 2:35:59 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:36:27 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 2:36:56 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:37:01 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"cd4ebfb2-d195-43f5-a0df-4975990bae5b","rq":{"contentViewingByUser":true},"rs":{}}
+сен 25, 2019 2:37:09 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:37:10 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 2:37:12 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 2:37:12 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 2:37:12 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 2:37:12 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 2:37:12 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 2:37:12 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 2:37:18 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 2:37:25 AM server.Trace$CustomLogger customLog
+INFO: Client ID: cd4ebfb2-d195-43f5-a0df-4975990bae5b. User: Alla
+сен 25, 2019 2:37:39 AM server.Trace$CustomLogger customLog
+INFO: Client ID: cd4ebfb2-d195-43f5-a0df-4975990bae5b. View user content
+сен 25, 2019 2:38:47 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 2:38:54 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:38:54 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"79e661bb-8988-4714-8c17-cb64318da2fe","rq":{"contentViewingByUser":true},"rs":{}}
+сен 25, 2019 2:38:54 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:38:55 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 2:38:55 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 2:38:55 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 2:38:55 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 2:38:55 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 2:38:55 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 2:38:55 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 2:38:56 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 2:38:57 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 79e661bb-8988-4714-8c17-cb64318da2fe. User: Alla
+сен 25, 2019 2:38:57 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 79e661bb-8988-4714-8c17-cb64318da2fe. View user content
+сен 25, 2019 2:40:20 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 2:40:28 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:40:28 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"29974f30-31c5-4379-973a-5d659742f18e","rq":{"contentViewingByUser":true},"rs":{}}
+сен 25, 2019 2:40:28 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:40:29 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 2:40:29 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 2:40:29 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 2:40:29 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 2:40:29 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 2:40:29 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 2:40:29 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 2:40:30 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 2:40:31 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 29974f30-31c5-4379-973a-5d659742f18e. User: Alla
+сен 25, 2019 2:40:31 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 29974f30-31c5-4379-973a-5d659742f18e. View user content
+сен 25, 2019 2:44:04 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 2:44:11 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:44:11 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"a103643f-64d6-4bad-865b-fe57242460a3","rq":{"contentViewingByUser":true},"rs":{}}
+сен 25, 2019 2:44:11 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:44:12 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 2:44:12 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 2:44:12 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 2:44:12 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 2:44:12 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 2:44:12 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 2:44:12 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 2:44:13 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 2:44:14 AM server.Trace$CustomLogger customLog
+INFO: Client ID: a103643f-64d6-4bad-865b-fe57242460a3. User: Alla
+сен 25, 2019 2:44:14 AM server.Trace$CustomLogger customLog
+INFO: Client ID: a103643f-64d6-4bad-865b-fe57242460a3. View user content
+сен 25, 2019 2:44:14 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"a103643f-64d6-4bad-865b-fe57242460a3","rq":{},"rs":{"contentViewing":["{\"contentId\":3,\"text\":\"record 3\"}"]}}
+сен 25, 2019 2:47:08 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:47:08 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"6058d6a8-399c-4839-bb13-f6217cf5815c","rq":{"contentViewing":true},"rs":{}}
+сен 25, 2019 2:47:08 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:47:08 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 6058d6a8-399c-4839-bb13-f6217cf5815c. User: Alla
+сен 25, 2019 2:47:08 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 6058d6a8-399c-4839-bb13-f6217cf5815c. View common content
+сен 25, 2019 2:47:08 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"6058d6a8-399c-4839-bb13-f6217cf5815c","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:47:16 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:47:16 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"6058d6a8-399c-4839-bb13-f6217cf5815c","rq":{"addContent":6},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:47:16 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:47:16 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 6058d6a8-399c-4839-bb13-f6217cf5815c. User: Alla
+сен 25, 2019 2:47:16 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 6058d6a8-399c-4839-bb13-f6217cf5815c. Add content
+сен 25, 2019 2:47:16 AM server.Trace$CustomLogger customLog
+INFO: Search link by login+contentId: Alla, 6
+сен 25, 2019 2:47:16 AM server.Trace$CustomLogger customLog
+INFO: Link doesn't exist by login+contentId: Alla, 6
+сен 25, 2019 2:47:16 AM server.Trace$CustomLogger customLog
+INFO: Attempt to create link by login+contentId: Alla, 6
+сен 25, 2019 2:47:16 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"6058d6a8-399c-4839-bb13-f6217cf5815c","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:47:23 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:47:23 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"6058d6a8-399c-4839-bb13-f6217cf5815c","rq":{"contentViewingByUser":true},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:47:23 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:47:23 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 6058d6a8-399c-4839-bb13-f6217cf5815c. User: Alla
+сен 25, 2019 2:47:23 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 6058d6a8-399c-4839-bb13-f6217cf5815c. View user content
+сен 25, 2019 2:47:23 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"6058d6a8-399c-4839-bb13-f6217cf5815c","rq":{},"rs":{"contentViewing":["{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":6,\"text\":\"record 6\"}"]}}
+сен 25, 2019 2:47:35 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:47:35 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"6058d6a8-399c-4839-bb13-f6217cf5815c","rq":{"deleteContent":3},"rs":{"contentViewing":["{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":6,\"text\":\"record 6\"}"]}}
+сен 25, 2019 2:47:35 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:47:35 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 6058d6a8-399c-4839-bb13-f6217cf5815c. User: Alla
+сен 25, 2019 2:47:35 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 6058d6a8-399c-4839-bb13-f6217cf5815c. Delete content
+сен 25, 2019 2:49:18 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 2:49:31 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:49:31 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"d6ade1a3-8b30-4d2c-b67d-495132dfc19b","rq":{"contentViewingByUser":true},"rs":{}}
+сен 25, 2019 2:49:31 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:49:32 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 2:49:32 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 2:49:32 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 2:49:32 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 2:49:32 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 2:49:32 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 2:49:32 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 2:49:33 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 2:49:34 AM server.Trace$CustomLogger customLog
+INFO: Client ID: d6ade1a3-8b30-4d2c-b67d-495132dfc19b. User: Alla
+сен 25, 2019 2:49:34 AM server.Trace$CustomLogger customLog
+INFO: Client ID: d6ade1a3-8b30-4d2c-b67d-495132dfc19b. View user content
+сен 25, 2019 2:49:34 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"d6ade1a3-8b30-4d2c-b67d-495132dfc19b","rq":{},"rs":{"contentViewing":["{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":6,\"text\":\"record 6\"}"]}}
+сен 25, 2019 2:49:44 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:49:44 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"d6ade1a3-8b30-4d2c-b67d-495132dfc19b","rq":{"deleteContent":3},"rs":{"contentViewing":["{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":6,\"text\":\"record 6\"}"]}}
+сен 25, 2019 2:49:44 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:49:44 AM server.Trace$CustomLogger customLog
+INFO: Client ID: d6ade1a3-8b30-4d2c-b67d-495132dfc19b. User: Alla
+сен 25, 2019 2:49:44 AM server.Trace$CustomLogger customLog
+INFO: Client ID: d6ade1a3-8b30-4d2c-b67d-495132dfc19b. Delete content
+сен 25, 2019 2:49:45 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"d6ade1a3-8b30-4d2c-b67d-495132dfc19b","rq":{},"rs":{"contentViewing":["{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":6,\"text\":\"record 6\"}"]}}
+сен 25, 2019 2:52:07 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:52:07 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"fa5ba1ca-6728-4058-b50d-c5058dbc178b","rq":{"contentViewingByUser":true},"rs":{}}
+сен 25, 2019 2:52:07 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:52:07 AM server.Trace$CustomLogger customLog
+INFO: Client ID: fa5ba1ca-6728-4058-b50d-c5058dbc178b. User: Alla
+сен 25, 2019 2:52:07 AM server.Trace$CustomLogger customLog
+INFO: Client ID: fa5ba1ca-6728-4058-b50d-c5058dbc178b. View user content
+сен 25, 2019 2:52:07 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"fa5ba1ca-6728-4058-b50d-c5058dbc178b","rq":{},"rs":{"contentViewing":["{\"contentId\":6,\"text\":\"record 6\"}"]}}
+сен 25, 2019 2:52:22 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:52:22 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"fa5ba1ca-6728-4058-b50d-c5058dbc178b","rq":{"contentViewing":true},"rs":{"contentViewing":["{\"contentId\":6,\"text\":\"record 6\"}"]}}
+сен 25, 2019 2:52:22 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:52:22 AM server.Trace$CustomLogger customLog
+INFO: Client ID: fa5ba1ca-6728-4058-b50d-c5058dbc178b. User: Alla
+сен 25, 2019 2:52:22 AM server.Trace$CustomLogger customLog
+INFO: Client ID: fa5ba1ca-6728-4058-b50d-c5058dbc178b. View common content
+сен 25, 2019 2:52:22 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"fa5ba1ca-6728-4058-b50d-c5058dbc178b","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:52:31 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:52:31 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"fa5ba1ca-6728-4058-b50d-c5058dbc178b","rq":{"addContent":6},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:52:31 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:52:31 AM server.Trace$CustomLogger customLog
+INFO: Client ID: fa5ba1ca-6728-4058-b50d-c5058dbc178b. User: Alla
+сен 25, 2019 2:52:31 AM server.Trace$CustomLogger customLog
+INFO: Client ID: fa5ba1ca-6728-4058-b50d-c5058dbc178b. Add content
+сен 25, 2019 2:52:31 AM server.Trace$CustomLogger customLog
+INFO: Search link by login+contentId: Alla, 6
+сен 25, 2019 2:52:31 AM server.Trace$CustomLogger customLog
+INFO: Client ID: fa5ba1ca-6728-4058-b50d-c5058dbc178b. Content has been added earlier
+сен 25, 2019 2:52:31 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"fa5ba1ca-6728-4058-b50d-c5058dbc178b","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:52:36 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:52:36 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"fa5ba1ca-6728-4058-b50d-c5058dbc178b","rq":{"addContent":7},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:52:36 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:52:36 AM server.Trace$CustomLogger customLog
+INFO: Client ID: fa5ba1ca-6728-4058-b50d-c5058dbc178b. User: Alla
+сен 25, 2019 2:52:36 AM server.Trace$CustomLogger customLog
+INFO: Client ID: fa5ba1ca-6728-4058-b50d-c5058dbc178b. Add content
+сен 25, 2019 2:52:36 AM server.Trace$CustomLogger customLog
+INFO: Search link by login+contentId: Alla, 7
+сен 25, 2019 2:52:36 AM server.Trace$CustomLogger customLog
+INFO: Link doesn't exist by login+contentId: Alla, 7
+сен 25, 2019 2:52:36 AM server.Trace$CustomLogger customLog
+INFO: Attempt to create link by login+contentId: Alla, 7
+сен 25, 2019 2:52:36 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"fa5ba1ca-6728-4058-b50d-c5058dbc178b","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:52:38 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:52:38 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"fa5ba1ca-6728-4058-b50d-c5058dbc178b","rq":{"addContent":8},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:52:38 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:52:38 AM server.Trace$CustomLogger customLog
+INFO: Client ID: fa5ba1ca-6728-4058-b50d-c5058dbc178b. User: Alla
+сен 25, 2019 2:52:38 AM server.Trace$CustomLogger customLog
+INFO: Client ID: fa5ba1ca-6728-4058-b50d-c5058dbc178b. Add content
+сен 25, 2019 2:52:38 AM server.Trace$CustomLogger customLog
+INFO: Search link by login+contentId: Alla, 8
+сен 25, 2019 2:52:38 AM server.Trace$CustomLogger customLog
+INFO: Link doesn't exist by login+contentId: Alla, 8
+сен 25, 2019 2:52:38 AM server.Trace$CustomLogger customLog
+INFO: Attempt to create link by login+contentId: Alla, 8
+сен 25, 2019 2:52:38 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"fa5ba1ca-6728-4058-b50d-c5058dbc178b","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:52:44 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:52:44 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"fa5ba1ca-6728-4058-b50d-c5058dbc178b","rq":{"contentViewingByUser":true},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:52:44 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:52:44 AM server.Trace$CustomLogger customLog
+INFO: Client ID: fa5ba1ca-6728-4058-b50d-c5058dbc178b. User: Alla
+сен 25, 2019 2:52:44 AM server.Trace$CustomLogger customLog
+INFO: Client ID: fa5ba1ca-6728-4058-b50d-c5058dbc178b. View user content
+сен 25, 2019 2:52:44 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"fa5ba1ca-6728-4058-b50d-c5058dbc178b","rq":{},"rs":{"contentViewing":["{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:52:58 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:52:58 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"fa5ba1ca-6728-4058-b50d-c5058dbc178b","rq":{"deleteContent":7},"rs":{"contentViewing":["{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:52:58 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:52:58 AM server.Trace$CustomLogger customLog
+INFO: Client ID: fa5ba1ca-6728-4058-b50d-c5058dbc178b. User: Alla
+сен 25, 2019 2:52:58 AM server.Trace$CustomLogger customLog
+INFO: Client ID: fa5ba1ca-6728-4058-b50d-c5058dbc178b. Delete content
+сен 25, 2019 2:52:58 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"fa5ba1ca-6728-4058-b50d-c5058dbc178b","rq":{},"rs":{"contentViewing":["{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:53:11 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:53:11 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","clientId":"fa5ba1ca-6728-4058-b50d-c5058dbc178b","rq":{"deleteContent":8},"rs":{"contentViewing":["{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:53:11 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 2:53:11 AM server.Trace$CustomLogger customLog
+INFO: Client ID: fa5ba1ca-6728-4058-b50d-c5058dbc178b. User: Alla
+сен 25, 2019 2:53:11 AM server.Trace$CustomLogger customLog
+INFO: Client ID: fa5ba1ca-6728-4058-b50d-c5058dbc178b. Delete content
+сен 25, 2019 2:53:11 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","clientId":"fa5ba1ca-6728-4058-b50d-c5058dbc178b","rq":{},"rs":{"contentViewing":["{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:55:02 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:55:51 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:55:51 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{"contentViewing":true},"rs":{}}
+сен 25, 2019 2:55:51 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Kate
+сен 25, 2019 2:55:51 AM server.Trace$CustomLogger customLog
+INFO: User doesn't exist by login: Kate
+сен 25, 2019 2:55:51 AM server.Trace$CustomLogger customLog
+INFO: Attempt to create user by login: Kate
+сен 25, 2019 2:55:51 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 678a7bc8-289a-415f-a046-5304638510c6. User: Kate
+сен 25, 2019 2:55:51 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 678a7bc8-289a-415f-a046-5304638510c6. View common content
+сен 25, 2019 2:55:51 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:55:56 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:55:56 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Anton","clientId":"0e9040da-8746-43b9-b2b4-54f4b01c8c71","rq":{"contentViewing":true},"rs":{}}
+сен 25, 2019 2:55:56 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Anton
+сен 25, 2019 2:55:56 AM server.Trace$CustomLogger customLog
+INFO: User doesn't exist by login: Anton
+сен 25, 2019 2:55:56 AM server.Trace$CustomLogger customLog
+INFO: Attempt to create user by login: Anton
+сен 25, 2019 2:55:56 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 0e9040da-8746-43b9-b2b4-54f4b01c8c71. User: Anton
+сен 25, 2019 2:55:56 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 0e9040da-8746-43b9-b2b4-54f4b01c8c71. View common content
+сен 25, 2019 2:55:56 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Anton","clientId":"0e9040da-8746-43b9-b2b4-54f4b01c8c71","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:18 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:58:18 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{"addContent":2},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:18 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Kate
+сен 25, 2019 2:58:18 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 678a7bc8-289a-415f-a046-5304638510c6. User: Kate
+сен 25, 2019 2:58:18 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 678a7bc8-289a-415f-a046-5304638510c6. Add content
+сен 25, 2019 2:58:18 AM server.Trace$CustomLogger customLog
+INFO: Search link by login+contentId: Kate, 2
+сен 25, 2019 2:58:18 AM server.Trace$CustomLogger customLog
+INFO: Link doesn't exist by login+contentId: Kate, 2
+сен 25, 2019 2:58:18 AM server.Trace$CustomLogger customLog
+INFO: Attempt to create link by login+contentId: Kate, 2
+сен 25, 2019 2:58:19 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:23 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:58:23 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{"addContent":5},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:23 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Kate
+сен 25, 2019 2:58:23 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 678a7bc8-289a-415f-a046-5304638510c6. User: Kate
+сен 25, 2019 2:58:23 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 678a7bc8-289a-415f-a046-5304638510c6. Add content
+сен 25, 2019 2:58:23 AM server.Trace$CustomLogger customLog
+INFO: Search link by login+contentId: Kate, 5
+сен 25, 2019 2:58:23 AM server.Trace$CustomLogger customLog
+INFO: Link doesn't exist by login+contentId: Kate, 5
+сен 25, 2019 2:58:23 AM server.Trace$CustomLogger customLog
+INFO: Attempt to create link by login+contentId: Kate, 5
+сен 25, 2019 2:58:24 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:24 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:58:24 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{"addContent":6},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:24 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Kate
+сен 25, 2019 2:58:24 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 678a7bc8-289a-415f-a046-5304638510c6. User: Kate
+сен 25, 2019 2:58:24 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 678a7bc8-289a-415f-a046-5304638510c6. Add content
+сен 25, 2019 2:58:24 AM server.Trace$CustomLogger customLog
+INFO: Search link by login+contentId: Kate, 6
+сен 25, 2019 2:58:24 AM server.Trace$CustomLogger customLog
+INFO: Link doesn't exist by login+contentId: Kate, 6
+сен 25, 2019 2:58:24 AM server.Trace$CustomLogger customLog
+INFO: Attempt to create link by login+contentId: Kate, 6
+сен 25, 2019 2:58:24 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:29 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:58:29 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{"addContent":2},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:29 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Kate
+сен 25, 2019 2:58:29 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 678a7bc8-289a-415f-a046-5304638510c6. User: Kate
+сен 25, 2019 2:58:29 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 678a7bc8-289a-415f-a046-5304638510c6. Add content
+сен 25, 2019 2:58:29 AM server.Trace$CustomLogger customLog
+INFO: Search link by login+contentId: Kate, 2
+сен 25, 2019 2:58:29 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 678a7bc8-289a-415f-a046-5304638510c6. Content has been added earlier
+сен 25, 2019 2:58:29 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:35 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:58:35 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Anton","clientId":"0e9040da-8746-43b9-b2b4-54f4b01c8c71","rq":{"addContent":3},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:35 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Anton
+сен 25, 2019 2:58:35 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 0e9040da-8746-43b9-b2b4-54f4b01c8c71. User: Anton
+сен 25, 2019 2:58:35 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 0e9040da-8746-43b9-b2b4-54f4b01c8c71. Add content
+сен 25, 2019 2:58:35 AM server.Trace$CustomLogger customLog
+INFO: Search link by login+contentId: Anton, 3
+сен 25, 2019 2:58:35 AM server.Trace$CustomLogger customLog
+INFO: Link doesn't exist by login+contentId: Anton, 3
+сен 25, 2019 2:58:35 AM server.Trace$CustomLogger customLog
+INFO: Attempt to create link by login+contentId: Anton, 3
+сен 25, 2019 2:58:35 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Anton","clientId":"0e9040da-8746-43b9-b2b4-54f4b01c8c71","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:35 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:58:35 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Anton","clientId":"0e9040da-8746-43b9-b2b4-54f4b01c8c71","rq":{"addContent":4},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:35 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Anton
+сен 25, 2019 2:58:35 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 0e9040da-8746-43b9-b2b4-54f4b01c8c71. User: Anton
+сен 25, 2019 2:58:35 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 0e9040da-8746-43b9-b2b4-54f4b01c8c71. Add content
+сен 25, 2019 2:58:35 AM server.Trace$CustomLogger customLog
+INFO: Search link by login+contentId: Anton, 4
+сен 25, 2019 2:58:35 AM server.Trace$CustomLogger customLog
+INFO: Link doesn't exist by login+contentId: Anton, 4
+сен 25, 2019 2:58:35 AM server.Trace$CustomLogger customLog
+INFO: Attempt to create link by login+contentId: Anton, 4
+сен 25, 2019 2:58:36 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Anton","clientId":"0e9040da-8746-43b9-b2b4-54f4b01c8c71","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:36 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:58:36 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Anton","clientId":"0e9040da-8746-43b9-b2b4-54f4b01c8c71","rq":{"addContent":5},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:36 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Anton
+сен 25, 2019 2:58:36 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 0e9040da-8746-43b9-b2b4-54f4b01c8c71. User: Anton
+сен 25, 2019 2:58:36 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 0e9040da-8746-43b9-b2b4-54f4b01c8c71. Add content
+сен 25, 2019 2:58:36 AM server.Trace$CustomLogger customLog
+INFO: Search link by login+contentId: Anton, 5
+сен 25, 2019 2:58:36 AM server.Trace$CustomLogger customLog
+INFO: Link doesn't exist by login+contentId: Anton, 5
+сен 25, 2019 2:58:36 AM server.Trace$CustomLogger customLog
+INFO: Attempt to create link by login+contentId: Anton, 5
+сен 25, 2019 2:58:36 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Anton","clientId":"0e9040da-8746-43b9-b2b4-54f4b01c8c71","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:37 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:58:37 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Anton","clientId":"0e9040da-8746-43b9-b2b4-54f4b01c8c71","rq":{"addContent":6},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:37 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Anton
+сен 25, 2019 2:58:37 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 0e9040da-8746-43b9-b2b4-54f4b01c8c71. User: Anton
+сен 25, 2019 2:58:37 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 0e9040da-8746-43b9-b2b4-54f4b01c8c71. Add content
+сен 25, 2019 2:58:37 AM server.Trace$CustomLogger customLog
+INFO: Search link by login+contentId: Anton, 6
+сен 25, 2019 2:58:37 AM server.Trace$CustomLogger customLog
+INFO: Link doesn't exist by login+contentId: Anton, 6
+сен 25, 2019 2:58:37 AM server.Trace$CustomLogger customLog
+INFO: Attempt to create link by login+contentId: Anton, 6
+сен 25, 2019 2:58:37 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Anton","clientId":"0e9040da-8746-43b9-b2b4-54f4b01c8c71","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:38 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:58:38 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Anton","clientId":"0e9040da-8746-43b9-b2b4-54f4b01c8c71","rq":{"addContent":7},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:38 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Anton
+сен 25, 2019 2:58:38 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 0e9040da-8746-43b9-b2b4-54f4b01c8c71. User: Anton
+сен 25, 2019 2:58:38 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 0e9040da-8746-43b9-b2b4-54f4b01c8c71. Add content
+сен 25, 2019 2:58:38 AM server.Trace$CustomLogger customLog
+INFO: Search link by login+contentId: Anton, 7
+сен 25, 2019 2:58:38 AM server.Trace$CustomLogger customLog
+INFO: Link doesn't exist by login+contentId: Anton, 7
+сен 25, 2019 2:58:38 AM server.Trace$CustomLogger customLog
+INFO: Attempt to create link by login+contentId: Anton, 7
+сен 25, 2019 2:58:38 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Anton","clientId":"0e9040da-8746-43b9-b2b4-54f4b01c8c71","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:45 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:58:45 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Anton","clientId":"0e9040da-8746-43b9-b2b4-54f4b01c8c71","rq":{"contentViewingByUser":true},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:45 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Anton
+сен 25, 2019 2:58:45 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 0e9040da-8746-43b9-b2b4-54f4b01c8c71. User: Anton
+сен 25, 2019 2:58:45 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 0e9040da-8746-43b9-b2b4-54f4b01c8c71. View user content
+сен 25, 2019 2:58:45 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Anton","clientId":"0e9040da-8746-43b9-b2b4-54f4b01c8c71","rq":{},"rs":{"contentViewing":["{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}"]}}
+сен 25, 2019 2:58:59 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:58:59 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{"contentViewingByUser":true},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 2:58:59 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Kate
+сен 25, 2019 2:58:59 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 678a7bc8-289a-415f-a046-5304638510c6. User: Kate
+сен 25, 2019 2:58:59 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 678a7bc8-289a-415f-a046-5304638510c6. View user content
+сен 25, 2019 2:58:59 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{},"rs":{"contentViewing":["{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}"]}}
+сен 25, 2019 2:59:16 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 2:59:16 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{"deleteContent":5},"rs":{"contentViewing":["{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}"]}}
+сен 25, 2019 2:59:16 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Kate
+сен 25, 2019 2:59:16 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 678a7bc8-289a-415f-a046-5304638510c6. User: Kate
+сен 25, 2019 2:59:16 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 678a7bc8-289a-415f-a046-5304638510c6. Delete content
+сен 25, 2019 2:59:17 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{},"rs":{"contentViewing":["{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}"]}}
+сен 25, 2019 3:00:07 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 3:00:07 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{"contentViewing":true},"rs":{"contentViewing":["{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}"]}}
+сен 25, 2019 3:00:07 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Kate
+сен 25, 2019 3:00:07 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 678a7bc8-289a-415f-a046-5304638510c6. User: Kate
+сен 25, 2019 3:00:07 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 678a7bc8-289a-415f-a046-5304638510c6. View common content
+сен 25, 2019 3:00:07 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 3:00:12 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 3:00:12 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{"addContent":2},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 3:00:12 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Kate
+сен 25, 2019 3:00:12 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 678a7bc8-289a-415f-a046-5304638510c6. User: Kate
+сен 25, 2019 3:00:12 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 678a7bc8-289a-415f-a046-5304638510c6. Add content
+сен 25, 2019 3:00:12 AM server.Trace$CustomLogger customLog
+INFO: Search link by login+contentId: Kate, 2
+сен 25, 2019 3:00:12 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 678a7bc8-289a-415f-a046-5304638510c6. Content has been added earlier
+сен 25, 2019 3:00:12 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 3:00:28 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 3:00:28 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{"addContent":3},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 3:00:28 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Kate
+сен 25, 2019 3:00:28 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 678a7bc8-289a-415f-a046-5304638510c6. User: Kate
+сен 25, 2019 3:00:28 AM server.Trace$CustomLogger customLog
+INFO: Client ID: 678a7bc8-289a-415f-a046-5304638510c6. Add content
+сен 25, 2019 3:00:28 AM server.Trace$CustomLogger customLog
+INFO: Search link by login+contentId: Kate, 3
+сен 25, 2019 3:00:28 AM server.Trace$CustomLogger customLog
+INFO: Link doesn't exist by login+contentId: Kate, 3
+сен 25, 2019 3:00:28 AM server.Trace$CustomLogger customLog
+INFO: Attempt to create link by login+contentId: Kate, 3
+сен 25, 2019 3:00:28 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Kate","clientId":"678a7bc8-289a-415f-a046-5304638510c6","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 3:29:27 AM server.Trace$CustomLogger customLog
+INFO: Server Started
+сен 25, 2019 3:29:41 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 3:29:41 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","rq":{"contentViewingByUser":true},"rs":{}}
+сен 25, 2019 3:29:41 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 3:29:41 AM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.4.Final}
+сен 25, 2019 3:29:42 AM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+сен 25, 2019 3:29:42 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+сен 25, 2019 3:29:42 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/portal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC]
+сен 25, 2019 3:29:42 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+сен 25, 2019 3:29:42 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+сен 25, 2019 3:29:42 AM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+сен 25, 2019 3:29:43 AM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+сен 25, 2019 3:29:44 AM server.Trace$CustomLogger customLog
+INFO: User: Alla
+сен 25, 2019 3:29:44 AM server.Trace$CustomLogger customLog
+INFO: View user content
+сен 25, 2019 3:29:44 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","rq":{},"rs":{"contentViewing":["{\"contentId\":6,\"text\":\"record 6\"}"]}}
+сен 25, 2019 3:29:55 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 3:29:55 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","rq":{"contentViewing":true},"rs":{"contentViewing":["{\"contentId\":6,\"text\":\"record 6\"}"]}}
+сен 25, 2019 3:29:55 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 3:29:55 AM server.Trace$CustomLogger customLog
+INFO: User: Alla
+сен 25, 2019 3:29:55 AM server.Trace$CustomLogger customLog
+INFO: View common content
+сен 25, 2019 3:29:55 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 3:29:58 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 3:29:58 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","rq":{"addContent":1},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 3:29:58 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 3:29:58 AM server.Trace$CustomLogger customLog
+INFO: User: Alla
+сен 25, 2019 3:29:58 AM server.Trace$CustomLogger customLog
+INFO: Add content
+сен 25, 2019 3:29:58 AM server.Trace$CustomLogger customLog
+INFO: Search link by login+contentId: Alla, 1
+сен 25, 2019 3:29:58 AM server.Trace$CustomLogger customLog
+INFO: Link doesn't exist by login+contentId: Alla, 1
+сен 25, 2019 3:29:58 AM server.Trace$CustomLogger customLog
+INFO: Attempt to create link by login+contentId: Alla, 1
+сен 25, 2019 3:29:58 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 3:29:59 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 3:29:59 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","rq":{"addContent":2},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 3:29:59 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 3:29:59 AM server.Trace$CustomLogger customLog
+INFO: User: Alla
+сен 25, 2019 3:29:59 AM server.Trace$CustomLogger customLog
+INFO: Add content
+сен 25, 2019 3:29:59 AM server.Trace$CustomLogger customLog
+INFO: Search link by login+contentId: Alla, 2
+сен 25, 2019 3:29:59 AM server.Trace$CustomLogger customLog
+INFO: Link doesn't exist by login+contentId: Alla, 2
+сен 25, 2019 3:29:59 AM server.Trace$CustomLogger customLog
+INFO: Attempt to create link by login+contentId: Alla, 2
+сен 25, 2019 3:29:59 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 3:30:00 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 3:30:00 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","rq":{"addContent":3},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 3:30:00 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 3:30:00 AM server.Trace$CustomLogger customLog
+INFO: User: Alla
+сен 25, 2019 3:30:00 AM server.Trace$CustomLogger customLog
+INFO: Add content
+сен 25, 2019 3:30:00 AM server.Trace$CustomLogger customLog
+INFO: Search link by login+contentId: Alla, 3
+сен 25, 2019 3:30:00 AM server.Trace$CustomLogger customLog
+INFO: Link doesn't exist by login+contentId: Alla, 3
+сен 25, 2019 3:30:00 AM server.Trace$CustomLogger customLog
+INFO: Attempt to create link by login+contentId: Alla, 3
+сен 25, 2019 3:30:00 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 3:30:05 AM server.Trace$CustomLogger customLog
+INFO: Get message from client
+сен 25, 2019 3:30:05 AM server.Trace$CustomLogger customLog
+INFO: {"logIn":"Alla","rq":{"contentViewingByUser":true},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":4,\"text\":\"record 4\"}","{\"contentId\":5,\"text\":\"record 5\"}","{\"contentId\":6,\"text\":\"record 6\"}","{\"contentId\":7,\"text\":\"record 7\"}","{\"contentId\":8,\"text\":\"record 8\"}"]}}
+сен 25, 2019 3:30:05 AM server.Trace$CustomLogger customLog
+INFO: Search user by login: Alla
+сен 25, 2019 3:30:05 AM server.Trace$CustomLogger customLog
+INFO: User: Alla
+сен 25, 2019 3:30:05 AM server.Trace$CustomLogger customLog
+INFO: View user content
+сен 25, 2019 3:30:05 AM server.Trace$CustomLogger customLog
+INFO: RESPONSE: {"logIn":"Alla","rq":{},"rs":{"contentViewing":["{\"contentId\":1,\"text\":\"record 1\"}","{\"contentId\":2,\"text\":\"record 2\"}","{\"contentId\":3,\"text\":\"record 3\"}","{\"contentId\":6,\"text\":\"record 6\"}"]}}
