@@ -12,7 +12,7 @@ import java.util.concurrent.Executors;
 public class Server {
 
     public static final int PORT = Config.PORT;
-    public static LinkedHashMap<UUID, ServerFactory> serverMap = new LinkedHashMap<>();
+    private static LinkedHashMap<UUID, ServerFactory> serverMap = new LinkedHashMap<>();
     //public static Story story; // история переписки
 
     /**
@@ -28,15 +28,23 @@ public class Server {
             while (true) {
 
                 Socket socket = server.accept();
-                try {
-                    UUID uuid = UUID.randomUUID();
-                    serverMap.put(uuid, new ServerFactory(socket, uuid)); // добавить новое соединенние в список
-                } catch (IOException e) {
-                    socket.close();
-                }
+                addNewClient(socket);
             }
         } finally {
             server.close();
         }
+    }
+    public static synchronized void  addNewClient (Socket socket) throws IOException{
+        try {
+            UUID uuid = UUID.randomUUID();
+            serverMap.put(uuid, new ServerFactory(socket, uuid)); // добавить новое соединенние в список
+        } catch (IOException e) {
+            socket.close();
+        }
+    }
+    public static synchronized void  deleteClient (UUID uuid) {
+            ServerFactory sf = Server.serverMap.get(uuid);
+            sf.interrupt();
+            Server.serverMap.remove(uuid);
     }
 }

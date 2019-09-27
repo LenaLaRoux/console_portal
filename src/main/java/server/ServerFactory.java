@@ -6,7 +6,6 @@ import entities.*;
 
 import java.io.*;
 import java.net.*;
-import java.util.Map;
 import java.util.UUID;
 
 /**
@@ -88,9 +87,7 @@ class ServerFactory extends Thread {
                 in.close();
                 out.close();
 
-                ServerFactory sf = Server.serverMap.get(this.uuid);
-                sf.interrupt();
-                Server.serverMap.remove(this.uuid);
+                Server.deleteClient(this.uuid);
             }
         } catch (IOException ignored) {
         }
